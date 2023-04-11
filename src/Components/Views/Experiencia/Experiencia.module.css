@@ -1,0 +1,55 @@
+.titulo{
+    height: 200px;
+    background-color: #1E3932;
+    color: white;
+}
+
+.texto{
+
+    width: 80%;
+    margin: auto;
+    font-family: Helvetica, Sans-Serif;
+    font-size: 25px ;
+    margin-bottom: 50px;   
+}
+
+.bloque1{
+    display: flex;
+    background-color: rgb(223, 221, 221);
+    margin-bottom: 30px;
+    margin-top: 80px;
+}
+.bloque2{
+    display: flex;
+    background-color: rgb(223, 221, 221);
+    margin-bottom: 30px;
+}
+.bloque3{
+    display: flex;
+    background-color: rgb(223, 221, 221);
+}
+
+
+.tituloParrafo{
+    display: inline-block;
+    align-self: center;
+    margin-bottom: 60px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.boton{
+    text-decoration: none;
+    border: solid 1px black;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+    border-radius: 20px 20px 20px 20px;
+    font-weight: bold;
+
+}
+
+.boton:hover{
+    background-color: rgb(211, 211, 211);
+}

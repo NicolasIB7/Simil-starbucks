@@ -1,0 +1,25 @@
+.bebidas{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  grid-gap: 5px;
+  width: 80%;
+  margin: auto;
+margin-top: 5%;
+}
+
+
+.titulo{
+  width: 80%;
+  margin: auto;
+}
+
+.imagenes{
+  background-color:#1E3932;
+  border-radius:50%
+}
+
+.imagenes:hover{
+  border-radius: 50%;
+  background-color: #304740;
+  
+}
